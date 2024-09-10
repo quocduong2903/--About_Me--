@@ -42,7 +42,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" alt="dev" width="450"/>
+        <img src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" alt="dev" width="430%"/>
       </p>
     </td>
   </tr>
