@@ -1,4 +1,4 @@
-<img align="right" width="62" src="https://github.com/quocduong2903.png" />
+<img align="right" width="60" src="https://github.com/quocduong2903.png" />
 
 <h2 align="center">Hi, I'm Quoc Duong</h2>
 
@@ -13,7 +13,7 @@
   </a> 
   <a href="https://github.com/quocduong2903" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
+  </a>
   <a href="https://www.instagram.com/_ng.quocduong_/" alt="Instagram" target="_blank" >
     <img src="https://img.icons8.com/?size=48&id=Xy10Jcu1L2Su&format=png&color=000000"/>
   </a>
