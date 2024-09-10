@@ -1,15 +1,50 @@
+<img align="right" width="62" src="https://github.com/quocduong2903.png" />
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010980677579) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_ng.quocduong_/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@duongne2903) 
+<h2 align="center">Hi, I'm Quoc Duong</h2>
 
-# 💻Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=quocduong2903&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=quocduong2903&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=quocduong2903&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+> ✍ I'm a fourth-year student majoring in software technology at the University of Industry and Trade.
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quocduong2903&layout=compact&theme=dark)
+## 📫 How to reach me:
+
+<p align="center">
+  <a href="https://www.facebook.com/01.tien" alt="Facebook">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+  </a> 
+  <a href="https://github.com/quocduong2903" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a> 
+  <a href="https://www.instagram.com/_ng.quocduong_/" alt="Instagram" target="_blank" >
+    <img src="https://img.icons8.com/?size=48&id=Xy10Jcu1L2Su&format=png&color=000000"/>
+  </a>
+  <a href="https://www.tiktok.com/@duongne2903" alt="Tiktok" target="_blank" >
+    <img src="https://img.icons8.com/?size=48&id=118640&format=png&color=000000"/>
+  </a>
+</p>
+
+## Skills:
+<p align="center">
+  <img src="https://img.icons8.com/?size=48&id=13679&format=png&color=000000"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img src="https://img.icons8.com/?size=48&id=4djt356tq8UO&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=48&id=0M5adtqhEjN5&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=48&id=ezj3zaVtImPg&format=png&color=000000"/>
+</p>
+
+## Activities:
+
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quocduong2903&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=quocduong2903&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
