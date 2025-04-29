@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi, I'm Quoc Duong</h2>
 
-> ✍ I'm a fourth-year student majoring in software technology at the University of Industry and Trade.
+> ✍ I'm a recent graduate from the Ho Chi Minh City University of Industry and Trade, majoring in Information Technology with a focus on Software Engineering.
 
 
 ## 📫 How to reach me:
